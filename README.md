@@ -52,4 +52,25 @@ This repository contains all documentation and resources related to Task 2 of my
 
 (See `Screenshots/` and `Artifacts/` folders for evidence.)
 
-## 📂 Repository Structure
+
+## 📚 Key Web Security Concepts
+
+| Concept              | Description                                                  |
+|----------------------|--------------------------------------------------------------|
+| Authentication       | Verifying user identity (e.g., MFA, login credentials)       |
+| Authorization        | Granting access based on roles and permissions               |
+| SQL Injection        | Inserting SQL commands to bypass login or extract data       |
+| XSS                  | Injecting malicious scripts into web pages                   |
+| CSRF                 | Forging unauthorized actions on behalf of a logged-in user   |
+| Input Validation     | Sanitizing input to prevent attacks                          |
+| Session Management   | Protecting session tokens and timeout mechanisms             |
+| Patch Management     | Updating apps to fix known vulnerabilities                   |
+
+---
+
+## 👤 Author
+
+**Suvhankar Dutta**  
+Cyber Security Intern | FutureTrix  
+📧 duttasuvhankar@gmail.com  
+📱 +91-9674979079
