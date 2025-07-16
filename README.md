@@ -71,6 +71,7 @@ This repository contains all documentation and resources related to Task 2 of my
 ## 👤 Author
 
 **Suvhankar Dutta**  
-Cyber Security Intern | FutureTrix  
+Cyber Security Intern | Future Intern 
 📧 duttasuvhankar@gmail.com  
 📱 +91-9674979079
+
